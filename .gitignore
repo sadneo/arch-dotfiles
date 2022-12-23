@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!Images
+!.config
+!.config/**
+
+!.zshrc
+!.zshenv

@@ -1,0 +1,21 @@
+// Original "small" made by adi1090x on GitHub
+// Original "fullscreen" and "alt" made by kaonkaon on GitHub
+
+configuration {
+	modi:                       "drun,run,filebrowser,window";
+    display-drun:               "";
+    display-filebrowser:        "";
+    display-window:             "";
+	drun-display-format:        "{name}";
+	window-format:              "{w} · {c} · {t}";
+
+	fixed-num-lines 	: true;
+	sidebar-mode 		: true;
+	scroll-method 		: 1;
+	click-to-exit 		: true;
+	sidebar-mode 		: false;
+	disable-history 	: false;
+}
+
+// small, fullscreen, alt
+@theme "small"
